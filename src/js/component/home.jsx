@@ -49,4 +49,4 @@ const Home = () => {
   );
 };
 
-export default Home;c
+export default Home;
